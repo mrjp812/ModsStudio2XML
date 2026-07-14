@@ -131,6 +131,26 @@
     </ListItem>
     <ListItem>
       <Group>Tank</Group>
+      <Text>Metal tank paint</Text>
+      <Value>tank.metal_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome tank paint</Text>
+      <Value>tank.chrome_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Metal tank paint</Text>
+      <Value>tank.metal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome tank paint</Text>
+      <Value>tank.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
       <Text>Paint tank</Text>
       <Value>tank.paint</Value>
     </ListItem>
@@ -160,8 +180,38 @@
       <Value>r_bumper.custom_4x2</Value>
     </ListItem>
     <ListItem>
-      <Group>Cabels</Group>
-      <Text>anti-encastrement</Text>
+      <Group>Rear Bumper</Group>
+      <Text>custom r bumper 6x4</Text>
+      <Value>r_bumper.custom_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4200 4x2</Text>
+      <Value>trlr_cables.4200_4x2_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 4x2 short</Text>
+      <Value>trlr_cables.4600_4x2_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 4x2 long</Text>
+      <Value>trlr_cables.4600_4x2_l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>6x4</Text>
+      <Value>trlr_cables.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 6x4</Text>
+      <Value>trlr_cables.4600_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>5800 tandem</Text>
       <Value>trlr_cables.5800t_6x4</Value>
     </ListItem>
     <ListItem>
@@ -184,8 +234,64 @@
       <Text>sideskirt tandem citern</Text>
       <Value>sideskirt.paint5800t2</Value>
     </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 4x2</Text>
+      <Value>chassis.42004x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 6x4</Text>
+      <Value>chassis.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 6x4 Tandem</Text>
+      <Value>chassis.4200t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2</Text>
+      <Value>chassis.46004x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2 Tandem</Text>
+      <Value>chassis.4600t4x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2 Long</Text>
+      <Value>chassis4x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4</Text>
+      <Value>chassis.46006x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4 Tandem</Text>
+      <Value>chassis.4600t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>5800 6x4 Tandem</Text>
+      <Value>chassis.5800t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Suspension </Group>
+      <Text>4x2</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Suspension</Group>
+      <Text>6x4</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\Janne\Documents\Mods Studio 2\UserVehicles\TAS\ETS.scania.t2.xml</FilePath>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Truck Access Simulator\ETS.scania.t2.xml</FilePath>
+  <XmlSource>User</XmlSource>
   <Game>ETS2</Game>
   <InternalName>scania.t2</InternalName>
   <SoundItems />

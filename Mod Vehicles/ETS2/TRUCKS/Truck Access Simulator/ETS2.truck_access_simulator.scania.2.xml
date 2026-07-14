@@ -199,6 +199,106 @@
       <Text>Paint</Text>
       <Value>tank.paint_s</Value>
     </ListItem>
+	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2</Text>
+      <Value>chassis.3400_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2 long</Text>
+      <Value>chassis.3400_4x2_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2 short</Text>
+      <Value>chassis.3400_4x2_s</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5600 4x2 streamline</Text>
+      <Value>chassis.chassis.5600_4x2_st</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6200 4x2 Tandem</Text>
+      <Value>chassis.6200_4x2_t</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 6x4</Text>
+      <Value>chassis.3400_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 6x4 Tandem</Text>
+      <Value>chassis.3400_6x4_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4</Text>
+      <Value>chassis.4600_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4 Tandem</Text>
+      <Value>chassis.4600_6x4_t</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5200 6x4</Text>
+      <Value>chassis.5200_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5200 6x4 Tandem</Text>
+      <Value>chassis.5200_6x4_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>4x2</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>6x2</Text>
+      <Value>suspension.6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>6x4</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>6x4</Text>
+      <Value>trlr_cables.6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3400 4x2 long</Text>
+      <Value>trlr_cables.3400_4x2_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3400 4x2 short</Text>
+      <Value>trlr_cables.3400_4x2_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3800 4x2</Text>
+      <Value>trlr_cables.3800_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>Tandem</Text>
+      <Value>trlr_cables.tandems</Value>
+    </ListItem>
+	
+	
+	
+	
   </AccessoryItems>
   <FilePath>D:\doks\Mods Studio 2\UserVehicles\TAS\ETS2.scania.2.xml</FilePath>
   <Game>ETS2</Game>
