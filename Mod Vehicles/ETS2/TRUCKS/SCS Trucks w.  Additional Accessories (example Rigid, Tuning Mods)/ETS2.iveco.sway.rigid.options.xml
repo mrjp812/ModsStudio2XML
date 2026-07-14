@@ -2166,9 +2166,9 @@
       <Group>VAK Toolbox</Group>
       <Text>Rigid rear toolbox Right VAK</Text>
       <Value>rigid_rear_r.vak</Value>
-    </ListItem>	
+    </ListItem>
   </AccessoryItems>
-  <FilePath>D:\doks\Mods Studio 2\UserVehicles\SCS\ETS2.iveco.sway.xml</FilePath>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\SCS Trucks\ETS2.iveco.sway.xml</FilePath>
   <XmlSource>User</XmlSource>
   <Game>ETS2</Game>
   <InternalName>iveco.sway</InternalName>
@@ -2181,7 +2181,7 @@
   </SoundItems>
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\sway_as.jpg</VehicleImage>
-  <VehicleName>SCS|IVECO S-Way rigid options</VehicleName>
+  <VehicleName>SCS_rigid|IVECO S-Way</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
